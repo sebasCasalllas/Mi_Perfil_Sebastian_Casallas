@@ -48,9 +48,25 @@ Luego de dar los permisos se ejecuta el script mediante la siguiente instuccion 
 
 Al ejecutar el script se muestra en consola una lista enumerada de los archivos contenidos en la carpeta "file_salida".
 
+3. Leer entrada.in  utilice un patrón para borrar solo unos de los patrones y el resultado guárdelo en un archivo e imprima el contenido del archivos.
 
+Para este punto se realizar los mismos pasos que en el punto 2. Pero se agrega al script, la cual es resaltada de color azul en la siguiente imagen:
 
+![punto 3-1](https://user-images.githubusercontent.com/68363695/222876137-f2d6a52e-ad13-47d2-bc6b-a312020f2c7a.png)
 
+Con la linea lo que se realiza es eliminar todos los archivos contenidos en la carpeta "file_salida" que tengan la extension "sh". El resultado al ejecutar el script se presenta en la siguiente imagen:
+
+![punto 3-2](https://user-images.githubusercontent.com/68363695/222876138-32cf050c-ad2f-4171-b2de-61256b7f97aa.png)
+
+4. Del listado anterior cambie el nombre de los archivos agregándole al final -mv.txt, liste los archivos e imprima el archivo en consola
+
+Para el desarrollo de este punto se realizo con un script el cual se presenta en la siguiente imagen:
+
+![punto 4-2](https://user-images.githubusercontent.com/68363695/222876140-7faf50eb-c110-488e-adaf-0844ccee34fc.png)
+
+En donde se realiza un script en donde se ejecuta un ciclo mediante el comando for para extraer todos los archivos de la carpeta "file_salida". Luego mediente el comando "mv" se remplaza la extension de todos los archivos por la extension "csv". A continuación se muestran los resultados de ejecutar el script:
+
+![punto 4-1](https://user-images.githubusercontent.com/68363695/222876139-a81d1fc6-1911-4538-a9d5-986cb16b6e59.png)
 
 
 
