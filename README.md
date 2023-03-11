@@ -4,7 +4,9 @@
 
 ### Sebastian Casallas
 
-#### *Presentación
+![Foto_perfil](https://user-images.githubusercontent.com/68363695/224461124-dfac292f-a53b-4e2d-8a61-5ffa82bf83af.jpg)
+
+#### * Presentación
 
 ```
 Soy una persona motivada por el desarrollo constante de mis habilidades y mi crecimiento profesional.   
