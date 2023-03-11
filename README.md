@@ -4,7 +4,7 @@
 
 ### Sebastian Casallas
 
-![Foto_perfil|0.1](https://user-images.githubusercontent.com/68363695/224461124-dfac292f-a53b-4e2d-8a61-5ffa82bf83af.jpg)
+![Foto_perfil](https://user-images.githubusercontent.com/68363695/224461124-dfac292f-a53b-4e2d-8a61-5ffa82bf83af.jpg)(withd=25%)
 
 #### * Presentación
 
