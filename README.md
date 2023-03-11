@@ -6,7 +6,7 @@
 
 ![Foto perfil](https://user-images.githubusercontent.com/68363695/224461489-30faa030-a9e5-4a28-9327-813b6fe24fee.png)
 
-#### * Presentación
+#### Presentación
 
 ```
 Soy una persona motivada por el desarrollo constante de mis habilidades y mi crecimiento profesional.   
